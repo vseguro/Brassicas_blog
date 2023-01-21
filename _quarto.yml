@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Brassicas"
+  navbar:
+    background: "#43A047"
+    border: true
+    left:
+      - about.qmd
+      
+      
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+
+editor: visual
+
