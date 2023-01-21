@@ -10,5 +10,8 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "66c7a87e"
+  },
+  "recetas.qmd": {
+    "recetas.html": "eb54a79d"
   }
 }
